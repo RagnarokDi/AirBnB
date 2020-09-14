@@ -1,5 +1,5 @@
 # AirBnB
-Projects with public AirBnB datasets
+Price-prediction algorithms for Airbnb properties
 
 ## What determines Airbnb listing prices in New York?
 
